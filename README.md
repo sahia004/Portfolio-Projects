@@ -1,5 +1,6 @@
 # Portfolio-Projects
 For my first project "Creating a Virtual Network" the objective was 
+
 Scenario:
 You're hired by an IT company as an IT subject matter expert. The client wants to upgrade their IT systems within a limited budget and space constraints. You propose implementing virtual machines to reduce costs and meet operational needs effectively. The upgrade involves installing a Firewall, a PC for the CEO, an internal Webserver, an internal DNS server, and Linux machines for monitoring and cybersecurity tasks. After installation, you'll document configurations and create a security baseline by scanning for open ports.
 
@@ -10,7 +11,16 @@ Successfully install and configure Linux virtual machines.
 Configure network interfaces and utilize network tools.
 Create a security baseline by scanning for open ports.
 
-For my second project 
+
+For my second project, Analyzing Network Vulnerabilities with Python", 
+
+Scenario:
+As you delve into Python programming, it's time to apply your skills to real-world scenarios. You'll tackle a network security challenge typical of a Security Professional's role.
+
+Project Tasks:
+
+Your mission is to write a Python program to analyze a network for vulnerabilities. Your program should test a given host and generate a list of TCP open ports within the range of 1 to 1025, utilizing Python's standard "socket" library.
+
 
 For my third project, "Identify Vulnerabilities" 
 
@@ -24,6 +34,7 @@ Ensure the VirtualBox network created in Project 1 is fully functional.
 Scan the Production server and the Webserver in the DMZ to enumerate vulnerabilities.
 Analyze vulnerabilities for exploitability and execute exploits against target computers.
 Demonstrate the creation of persistence.
+
 
 For my fourth project, "Penetration Testing", 
 
